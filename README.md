@@ -8,4 +8,4 @@ Wikipedia typically uses [sans-serif](https://en.wikipedia.org/wiki/Wikipedia:Ty
 
 ![citation needed](/4b972527fd0f2ffd.jpeg)
 
-Regarding the license: I am not sure if CC0 can even apply since the level of creation is quite low. Yet I added CC0 to make it explicit, that you can use and modify it however you like (see license). :)
+Regarding the license: I'm not sure if CC0 is applicable at all, as the level of creation is quite low. Nevertheless, I added CC0 to make it clear that you can use and change it as you like (see license).
